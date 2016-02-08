@@ -1,0 +1,1 @@
+This is my MOOC "Soyez acteurs du web !"'s work, a MOOC by Institut des Mines (France)

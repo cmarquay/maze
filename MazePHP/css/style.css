@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p, table tr td {
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+p:first-of-type {
+    color: blue;
+}
+
+table {
+    margin: auto;
+}
+
+p:last-of-type {
+    font-style: italic;
+}
